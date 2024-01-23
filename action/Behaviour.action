@@ -1,0 +1,6 @@
+int32 number_of_checks
+---
+int32[] number_of_times_rules_were_broken
+---
+geometry_msgs/Point position_of_detection
+int32 rule_broken
